@@ -1,4 +1,5 @@
 # Nanodegree-project
-1. This file contains 4 projects in nanodegress
-2. From the second project to the fifth project
-3. Python code is used for those 4 projects
+1. This file contains 4 projects in nanodegress. Python codes are used in all projects.
+
+2. Second Project: In this project, I work on baseball data from Sean Lahman webpage. Aim,Identify Batting and biographical information   characteristics for highest salary.
+
