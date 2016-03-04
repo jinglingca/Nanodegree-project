@@ -3,5 +3,5 @@
 
 2. Second Project: 
   ### For reviewing second project, please cilck Second Project.ipynb
-  * In this project, I work on baseball data from Sean Lahman webpage. Aim,identify Batting and biographical information     characteristics for player with the highest salary.
+  * In this project, I work on baseball data from Sean Lahman webpage. Aim,identify batting and biographical information     characteristics for player with the highest salary.
 
